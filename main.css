@@ -153,3 +153,7 @@ nav a {
         padding: 1rem;
     }
 }
+
+.construction {
+    color: rgba(255, 255, 0, 0.61);
+}
